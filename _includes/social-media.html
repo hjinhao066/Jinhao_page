@@ -13,7 +13,8 @@
           <button
             class="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-            <i class="fab fa-twitter"></i>
+            <img src="assets/img/x.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;">
+          </button>
           </button>
         </a>
         {% endif %}
@@ -23,7 +24,8 @@
           <button
             class="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-            <i class="fab fa-facebook"></i>
+            <img src="assets/img/facebook.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;">
+          </button>
           </button>
          
         </a>
@@ -36,7 +38,8 @@
           <button
             class="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-           <i class="fab fa-instagram"></i>
+           <img src="assets/img/instagram.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;">
+          </button>
           </button>
         </a>
         {% endif %}
@@ -66,7 +69,8 @@
           <button
             class="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-            <i class="fab fa-linkedin"></i>
+             <img src="assets/img/linkedin.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;">
+          </button>
           </button>
         </a>
         {% endif %}
@@ -90,7 +94,17 @@
           </button>
         </a>
         {% endif %}
-
+        
+     {% if site.tiktok %}
+        <a href="{{site.tiktok}}" target="_blank">
+          <button
+            class="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+            type="button">
+             <img src="assets/img/tiktok.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;">
+          </button>
+        </a>
+        {% endif %}
+        
         {% if site.email %}
         <a href="{{site.email}}" target="_blank">
           <button
