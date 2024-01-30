@@ -18,10 +18,11 @@ permalink: about
  都放假了看
  大家看法了
 <p align="center">
-  <img src="/assets/img/IMG_7012.jpg" alt="领域的啥减肥了" width="200"/>
+  <img src="/assets/img/IMG_7012.jpg" alt="来二斤如果" width="200"/>
 </p>
 
-
+ <img src="/assets/img/IMG_7547_2.jpg" alt="领域的啥减肥了" width="200"/>
+<img src="/assets/img/IMG_7012.jpg" alt="来二斤如果" width="200"/>
 ## 个人背景
 我是一名来自西南财经大学特拉华数据科学学院的学生，对数据科学和相关领域充满热情和兴趣。我追求知识的深度和广度，努力提高自己的技能，以在这个快速发展的领域中取得成功。
 
