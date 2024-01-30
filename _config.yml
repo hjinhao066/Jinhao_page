@@ -1,17 +1,17 @@
 # change the followings to match your Github username and repo name
-baseurl: "/tailpages" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+baseurl: "/Jinhao_page" # the name of your github repo
+url: "https://hjinhao066.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Self-intro"
+description: A personal homepage form jinhao 
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Jinhao Hu
+author-bio: false # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -20,11 +20,12 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
 - text: Blog
   permalink: blog
-
+- text: Skill
+  permalink: skill
+- text: Life
+  permalink: life
 # use false to turn off any social media links
 twitter: https://twitter.com/
 facebook: https://facebook.com/
