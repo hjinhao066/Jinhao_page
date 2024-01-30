@@ -7,7 +7,7 @@ title: "Self-intro"
 description: A personal homepage form jinhao 
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: yellow # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Jinhao Hu
@@ -27,10 +27,11 @@ nav-menu:
 - text: Life
   permalink: life
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
+twitter: https://twitter.com/hjinhao066
+facebook: https://www.facebook.com/profile.php?id=61550737555349
+instagram: https://www.instagram.com/alex_hu2930/
+xiaohongshu: https://www.xiaohongshu.com/user/profile/61206a8c0000000001006be8
+github: https://github.com/hjinhao066
 linkedin: https://linkedin.com/
 medium: false
 google-scholar: false
