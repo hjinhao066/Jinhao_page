@@ -2,6 +2,28 @@
 
 <section>
   <div class="flex flex-wrap text-center">
+    /* 确保容器使用flex布局并且内容水平居中 */
+      .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      /* 如果是在一个列表中，确保列表没有内边距和外边距 */
+      ul {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+      }
+      
+      /* 列表项为行内块元素，这样才能水平排列，并且有适当的空间 */
+      li {
+        display: inline-block;
+        margin: 0 10px; /* 您可以根据需要调整左右间距 */
+      }
+
+    
     <div class="w-full pt-4">
       <div>
 
@@ -33,7 +55,7 @@
           <button
             class="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-            <img src="assets/img/xiaohongshu.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;transform: translateY(-50%);">
+            <img src="assets/img/xiaohongshu.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;">
            
           </button>
         </a>
@@ -117,26 +139,7 @@
       margin: 0;
       /* 其他必要的样式 */
     }
-    /* 确保容器使用flex布局并且内容水平居中 */
-    .container {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: center;
-    }
-    
-    /* 如果是在一个列表中，确保列表没有内边距和外边距 */
-    ul {
-      padding: 0;
-      margin: 0;
-      list-style-type: none;
-    }
-    
-    /* 列表项为行内块元素，这样才能水平排列，并且有适当的空间 */
-    li {
-      display: inline-block;
-      margin: 0 10px; /* 您可以根据需要调整左右间距 */
-    }
+  
 
   </style>
       </div>
