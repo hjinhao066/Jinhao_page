@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Skills
-permalink: skills
+permalink: skill
 ---
 
 I have the following skills:
