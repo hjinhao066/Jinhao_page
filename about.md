@@ -4,19 +4,24 @@ title: About
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+# 自我介绍
 
-## Profile Image
+## 基本信息
+- **姓名**:  胡锦豪
+- **学校**: 西南财经大学
+- **学院**: 特拉华数据科学学院
 
-The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.png">
+## 个人背景
+我是一名来自西南财经大学特拉华数据科学学院的学生，对数据科学和相关领域充满热情和兴趣。我追求知识的深度和广度，努力提高自己的技能，以在这个快速发展的领域中取得成功。
 
-## References
+## 学术兴趣
+我对数据分析、机器学习、人工智能和大数据技术特别感兴趣。我希望能够在这些领域深入研究，为解决现实世界的问题做出贡献。
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
+## 经验与项目
+- 我参与过多个数据科学项目，包括数据清洗、特征工程、模型开发和数据可视化等方面的工作。
+- 我曾在一个人工智能竞赛中获得过奖项，证明了我的团队合作和问题解决能力。
 
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+## 目标
+我希望将我的数据科学和技术技能应用于实际问题，为社会和企业提供有价值的解决方案，并不断学习和成长，跟随行业的发展步伐。
+
+如果你对我的学术背景和兴趣有任何问题或合作机会，欢迎与我联系。我期待与志同道合的人一起探讨和分享知识，共同成长。
