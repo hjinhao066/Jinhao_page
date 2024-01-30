@@ -7,9 +7,10 @@ permalink: about
 # 自我介绍
 
 ## 基本信息
-- **姓名**: ![胡锦豪](assets/img/IMG_7341.jpg)
+- **姓名**: 胡锦豪
 - **学校**: [西南财经大学](https://www.swufe.edu.cn/)
 - **学院**: [特拉华数据科学学院](https://dsi.udel.edu/)
+<img src="assets/img/IMG_7341.jpg" alt="胡锦豪" width="300"/>
 
 <p align="center">
   <img src="/assets/img/IMG_7547_2.jpg" alt="领域的啥减肥了" width="200"/>
@@ -17,7 +18,7 @@ permalink: about
  都放假了看
  大家看法了
 <p align="center">
-  <img src="/assets/img/IMG_7012.jpg" alt="领域的啥减肥了" width="100"/>
+  <img src="/assets/img/IMG_7012.jpg" alt="领域的啥减肥了" width="200"/>
 </p>
 
 
