@@ -22,12 +22,23 @@
         </a>
         {% endif %}
 
+
+       {% if site.xiaohongshu %}  
+        <a href="{{site.xiaohongshu}}" target="_blank">
+          <button
+            class="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+            type="button">
+            <i class="fab fa-facebook"></i> ## 要改这里
+          </button>
+        </a>
+        {% endif %}
+        
         {% if site.instagram %}
         <a href="{{site.instagram}}" target="_blank">
           <button
             class="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-            <i class="fab fa-instagram"></i>
+           <img src="assets/img/xiaohongshu.svg" alt="Xiaohongshu" style="height: 24px; width: 24px;">
           </button>
         </a>
         {% endif %}
