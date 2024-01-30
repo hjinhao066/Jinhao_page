@@ -13,7 +13,8 @@ permalink: about
 
 
 2![你好要登记](/assets/img/IMG_7547_2.jpg)
-![你好](/assets/img/IMG_7547_2.jpg)IMG_7012.jpg
+
+3 ![你好](/assets/img/IMG_7012.jpg)
 
 
 ## 个人背景
