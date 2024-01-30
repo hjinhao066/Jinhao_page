@@ -7,13 +7,13 @@ permalink: about
 # 自我介绍
 
 ## 基本信息
-- **姓名**: ![胡锦豪](assets/img/IMG_7341.heic)
+- **姓名**: ![胡锦豪](assets/img/IMG_7341.jpg)
 - **学校**: [西南财经大学](https://www.swufe.edu.cn/)
 - **学院**: [特拉华数据科学学院](https://dsi.udel.edu/)
-1 ![胡锦豪](../assets/img/279.png)
 
-2![胡锦豪](/assets/img/279.png)
 
+2![你好要登记](/assets/img/IMG_7547_2.jpg)
+![你好](/assets/img/IMG_7547_2.jpg)IMG_7012.jpg
 
 
 ## 个人背景
