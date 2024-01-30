@@ -34,15 +34,7 @@
             class="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
             <img src="assets/img/xiaohongshu.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;transform: translateY(-50%);">
-             button {
-                  display: flex;
-                  align-items: center;
-                  justify-content: center;
-                  /* 确保没有额外的内边距或外边距影响居中 */
-                  padding: 0;
-                  margin: 0;
-                  /* 其他必要的样式 */
-                }
+           
           </button>
         </a>
         {% endif %}
@@ -106,7 +98,26 @@
           </button>
         </a>
         {% endif %}
+  <style>
+    /* 按钮内部flex布局，确保内容居中 */
+    .flex-center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      margin: 0;
+    }
 
+    /* 如果您想要确保所有按钮都有这个样式，可以直接使用 button 而不是 .flex-center */
+    button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      margin: 0;
+      /* 其他必要的样式 */
+    }
+  </style>
       </div>
     </div>
   </div>
