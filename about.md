@@ -8,7 +8,7 @@ permalink: about
 
 ## 基本信息
 - **姓名**:  胡锦豪
-<img src="img/IMG_7341.heic" alt="me">
+<img src="/assets/img/IMG_7341.heic" alt="me">
 - **学校**: 西南财经大学
 - **学院**: 特拉华数据科学学院
 
