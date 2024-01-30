@@ -4,20 +4,7 @@
   <div class="flex flex-wrap text-center">
     <div class="w-full pt-4">
       <div>
-<style>
-        /* 按钮内部flex布局，确保内容居中 */
-        button {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
 
-        /* 调整小红书图标的大小 */
-        button img.h-6.w-6 {
-            height: 24px; /* 或者其他尺寸，以适配您的设计 */
-            width: 24px; /* 或者其他尺寸，以适配您的设计 */
-        }
-    </style>
         
         {% if site.twitter %}
         <a href="{{site.twitter}}" target="_blank">
@@ -36,16 +23,26 @@
             type="button">
             <i class="fab fa-facebook"></i>
           </button>
+          button {
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  /* 确保没有额外的内边距或外边距影响居中 */
+                  padding: 0;
+                  margin: 0;
+                  /* 其他必要的样式 */
+                }
         </a>
         {% endif %}
 
-
+      #
        {% if site.xiaohongshu %}  
         <a href="{{site.xiaohongshu}}" target="_blank">
           <button
             class="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-            <i class="fab fa-facebook"></i> ## 要改这里
+            <img src="assets/img/xiaohongshu.svg" alt="Xiaohongshu" style="height: 24px; width: 24px; display: block; margin: auto;transform: translateY(-50%);">
+            
           </button>
         </a>
         {% endif %}
@@ -55,7 +52,7 @@
           <button
             class="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
             type="button">
-           <img src="assets/img/xiaohongshu.svg" alt="Xiaohongshu" style="height: 24px; width: 24px;">
+           <i class="fab fa-instagram"></i>
           </button>
         </a>
         {% endif %}
