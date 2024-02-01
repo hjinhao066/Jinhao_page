@@ -60,5 +60,8 @@ permalink: about
 目标
 > 我希望将我的数据科学和技术技能应用于实际问题，为社会和企业提供有价值的解决方案，并不断学习和成长，跟随行业的发展步伐。
 
-
-
+ <!-- 添加按钮 -->
+    <a href="mailto:your-email@example.com" class="button">联系我</a>
+    <a href="assets/files/resume.pdf" class="button">下载简历</a>
+    <a href="projects.html" class="button">查看项目</a>
+</body>
