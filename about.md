@@ -10,6 +10,10 @@ permalink: about
             color: #ffffff; /* 白色文字 */
             font-family: Arial, sans-serif;
         }
+        * {
+            color: #ffffff; /* 白色文字 */
+            font-family: Arial, sans-serif;
+        }
          .button {
             background-color: #8ecf8e; /* 浅绿色 */
             border: none;
