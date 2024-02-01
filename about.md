@@ -3,6 +3,34 @@ layout: page
 title: About
 permalink: about
 ---
+<head>
+    <style>
+        body {
+            background-color: #333; /* 深色背景 */
+            color: #fff; /* 白色文字 */
+            font-family: Arial, sans-serif;
+        }
+        .button {
+            background-color: #4CAF50; /* 绿色 */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        img {
+            border-radius: 5px; /* 圆角边框 */
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* 阴影效果 */
+        }
+    </style>
+</head>
 
 # 自我介绍1
 
