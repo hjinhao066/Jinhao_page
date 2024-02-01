@@ -71,4 +71,7 @@ permalink: about
     <a href="assets/img/Topic 6.pdf" class="button">topic 6 文件</a>
     <a href="https://github.com/hjinhao066" class="button">查看GitHub</a>
     <a href="projects.html" class="button">查看项目</a>
+<a href="assets/img/qiye.pdf" class="button">qiye</a>
+<a href="assets/img/xioawei.pdf" class="button">xiaowei</a>
+<a href="assets/img/xi.pdf" class="button">xi</a>
 
