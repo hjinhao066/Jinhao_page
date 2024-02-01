@@ -32,7 +32,7 @@ permalink: about
         }
     </style>
 </head>
-<body>
+
 # 自我介绍1
 
 ## 基本信息
@@ -68,5 +68,3 @@ permalink: about
     <a href="https://github.com/hjinhao066" class="button">查看GitHub</a>
     <a href="projects.html" class="button">查看项目</a>
 
-
-</body>
