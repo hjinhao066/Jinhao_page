@@ -63,5 +63,7 @@ permalink: about
  <!-- 添加按钮 -->
     <a href="mailto:hjinhao066@gmail.com" class="button">联系我</a>
     <a href="assets/img/推免.pdf" class="button">下载简历</a>
+    <a href="assets/img/Topic 6.pdf" class="button">topic 6 文件</a>
+    <a href="https://github.com/hjinhao066" class="button">查看GitHub</a>
     <a href="projects.html" class="button">查看项目</a>
 </body>
