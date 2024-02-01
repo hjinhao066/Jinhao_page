@@ -10,8 +10,8 @@ permalink: about
             color: white; /* 白色文字 */
             font-family: Arial, sans-serif;
         }
-        .button {
-            background-color: #4CAF50; /* 绿色 */
+         .button {
+            background-color: #8ecf8e; /* 浅绿色 */
             border: none;
             color: white;
             padding: 15px 32px;
@@ -24,7 +24,7 @@ permalink: about
             border-radius: 20px; /* 圆润的边角 */
         }
         .button:hover {
-            background-color: #45a049;
+            background-color: #7ec07e; /* 鼠标悬停时的颜色，稍微深一点的浅绿色 */
         }
         img {
             border-radius: 5px; /* 圆角边框 */
