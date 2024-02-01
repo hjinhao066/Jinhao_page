@@ -7,7 +7,7 @@ permalink: about
     <style>
         body {
             background-color: #000000; /* 深色背景 */
-            color: #ffffff; /* 白色文字 */
+            color: #f35efa; /* 白色文字 */
             font-family: Arial, sans-serif;
         }
         .button {
