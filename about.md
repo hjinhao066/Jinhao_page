@@ -6,7 +6,7 @@ permalink: about
 <head>
     <style>
         body {
-            background-color: #333333; /* 深色背景 */
+            background-color: #000000; /* 深色背景 */
             color: #ffffff; /* 白色文字 */
             font-family: Arial, sans-serif;
         }
