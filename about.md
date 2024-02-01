@@ -7,7 +7,7 @@ permalink: about
     <style>
         body {
             background-color: #000000; /* 深色背景 */
-            color: #f35efa; /* 白色文字 */
+            color: white; /* 白色文字 */
             font-family: Arial, sans-serif;
         }
         .button {
@@ -21,6 +21,7 @@ permalink: about
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
+            border-radius: 20px; /* 圆润的边角 */
         }
         .button:hover {
             background-color: #45a049;
@@ -31,7 +32,7 @@ permalink: about
         }
     </style>
 </head>
-
+<body>
 # 自我介绍1
 
 ## 基本信息
@@ -66,4 +67,6 @@ permalink: about
     <a href="assets/img/Topic 6.pdf" class="button">topic 6 文件</a>
     <a href="https://github.com/hjinhao066" class="button">查看GitHub</a>
     <a href="projects.html" class="button">查看项目</a>
+
+
 </body>
