@@ -37,11 +37,8 @@ permalink: about
     </style>
 </head>
 
-# 自我介绍1
+Hi,my name is Alex hu (Chinese: 胡锦豪)，a junior at the [University of Delaware](https://lerner.udel.edu/), majoring in Management Information Systems, Mathematics, and Data Science. I’m also enrolled as a JEI (Joint Educational Institute) student at the [SWUFE-UD Institute](https://dids.swufe.edu.cn/) of Data Science in Chengdu, China.
 
-## 基本信息
-- **姓名**: 胡锦豪1234 5 
-- **学校**: jhuhuihuhuhuhuhu[西南财经大学](https://www.swufe.edu.cn/)
 - **学院**: [特拉华数据科学学院](https://dsi.udel.edu/)
 
 
