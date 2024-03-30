@@ -47,7 +47,8 @@ In terms of my major, I work at [Takin.AI](https://takin.ai/) and [HiddenArt](ht
 Additionally, I am an assistant at the [International Affairs Office](https://dids.swufe.edu.cn/xygk/xzbm/qqswyjlbgs.htm) of the SWUFE-UD, where I primarily organize the "Professors Speeches" event. I coordinate for students to attend lectures given by foreign professors about their personal experiences and graduate application processes. Furthermore, I assist newly joined foreign faculty members in touring the campus and introduce them to the campus environment and troubleshoot classroom equipment.
 
 In my spare time, I enjoy watching American TV series and listening to music. I am also a versatile sports enthusiast, with particular proficiency in badminton, table tennis, volleyball, and basketball, listed in descending order of skill level.
- <!-- 添加按钮 -->
+
+ <!-- 添加按钮 
     <a href="mailto:hjinhao066@gmail.com" class="button">联系我</a>
     <a href="assets/img/推免.pdf" class="button">下载简历</a>
     <a href="assets/img/Topic 6.pdf" class="button">topic 6 文件</a>
@@ -56,4 +57,4 @@ In my spare time, I enjoy watching American TV series and listening to music. I 
 <a href="assets/img/qiye.pdf" class="button">qiye</a>
 <a href="assets/img/xioawei.pdf" class="button">xiaowei</a>
 <a href="assets/img/xi.pdf" class="button">xi</a>
-
+-->
