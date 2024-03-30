@@ -11,7 +11,7 @@ theme-color: yellow # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Jinhao Hu
-author-bio: false # change to false to hide
+author-bio:  new tools lover/ Blockchain / MIS  # change to false to hide
 author-image: 自拍v5调整大小.png # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -27,7 +27,7 @@ nav-menu:
 - text: Life
   permalink: life
 
-blockchain / student
+
 # use false to turn off any social media links
 twitter: false #https://twitter.com/hjinhao066
 facebook: #https://www.facebook.com/profile.php?id=61550737555349
@@ -40,7 +40,6 @@ medium: false
 google-scholar: false
 email: false
 
-blockchain / student
 
 # footer information
 footer-msg: "Powered by Tailpages"
