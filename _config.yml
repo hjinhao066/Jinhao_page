@@ -11,7 +11,7 @@ theme-color: yellow # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Jinhao Hu
-author-bio:  new tools lover/ Blockchain / MIS  # change to false to hide
+author-bio:  New tools lover/ Blockchain / MIS  # change to false to hide
 author-image: 自拍v5调整大小.png # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -22,8 +22,6 @@ nav-menu:
   permalink: about
 - text: Blog
   permalink: blog
-- text: Skill
-  permalink: skill
 - text: Life
   permalink: life
 
