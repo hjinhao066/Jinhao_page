@@ -3,8 +3,13 @@ layout: page
 title: My college life in Chengdu
 permalink: life
 ---
-# College Life in Chengdu
 
+这个页面主要介绍我在大学的生活以及收获。
+大一出入大学，我的主旋律是迷茫的，为了合群也就跟着玩永劫无间（游戏），同时也进行了我一直以来都想要进行的炒股的活动，问家里要了2万块钱来投资，其实是炒股。在最开始的元宇宙行情中我投入的5000 赚到了500， 于是我就加大仓位，结果就是不断的亏钱。炒股一年，参加过688 的社群，买过2万一年的炒股软件，从炒股变成炒可转债。也不过是换了途径亏钱。
+最终，腰折出局。
+大二也渐渐有了出国的意识，逐渐意识到了GPA的重要性，选了一些能够给分高的公选课，同时认真学习，最自豪的一件事情是我的会计学课程，从第一次考试的60分 到第二次的88到最后一次的97.5分这也让我整个会计学上了 91 分。同时，参加了学院国际事务交流处的助管，也给学院的辅导员做过助管。
+大三 
+# College Life in Chengdu
 ## Introduction
 Chengdu, the capital of Sichuan Province, is not only famous for its spicy food and leisurely lifestyle but also for its educational institutions. In the following sections, I reflect on my memorable journey through college in this vibrant city.
 
