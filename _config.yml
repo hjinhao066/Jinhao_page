@@ -27,13 +27,13 @@ nav-menu:
 - text: Life
   permalink: life
 # use false to turn off any social media links
-twitter: https://twitter.com/hjinhao066
-facebook: https://www.facebook.com/profile.php?id=61550737555349
+twitter: false #https://twitter.com/hjinhao066
+facebook: #https://www.facebook.com/profile.php?id=61550737555349
 instagram: https://www.instagram.com/alex_hu2930/
-xiaohongshu: https://www.xiaohongshu.com/user/profile/61206a8c0000000001006be8
+xiaohongshu: false #https://www.xiaohongshu.com/user/profile/61206a8c0000000001006be8
 github: https://github.com/hjinhao066
 linkedin: https://linkedin.com/
-tiktok: google.com
+tiktok: false #google.com
 medium: false
 google-scholar: false
 email: false
