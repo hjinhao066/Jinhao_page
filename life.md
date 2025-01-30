@@ -5,6 +5,40 @@ permalink: life
 ---
 
 This page mainly introduces my life and achievements in university.
+<div class="timeline-container">
+
+### <span class="year-tag freshman">Freshman Year</span> <span class="year-cn">· 探索与试错</span>
+
+<div class="year-card">
+🔥 **Metaverse Hype & Market Reality**  
+Initially caught in the gaming frenzy of *Naraka: Bladepoint* (2000+ hrs), I ventured into stock trading with ¥20k capital. While initial 10% gains in metaverse stocks were enticing, reality soon struck:  
+- 📉 Cumulative losses: ¥18,500  
+- ⚖️ Converted to convertible bonds: 23 failed trades  
+- 🎮 GPA 3.4 with 65% course attendance rate  
+
+<div class="key-lesson">
+💡 Learned: Markets reward patience, not impulse
+</div>
+</div>
+
+---
+
+### <span class="year-tag sophomore">Sophomore Year</span> <span class="year-cn">· 觉醒时刻</span>
+
+<div class="year-card">
+🌈 **Academic Transformation**  
+As International Affairs Assistant (360 hrs):  
+- 🎯 Organized 15+ "Teacher Talk" events (avg. 120 attendees)  
+- 🌍 Hosted 8 cross-cultural workshops  
+- 📚 Strategic course selection: 85% A-range grades  
+
+**Accounting Breakthrough**  
+<div class="progress-track">
+<mark>60</mark> → <mark class="improve">88</mark> → <mark class="excellent">97.5</mark>
+</div>
+Final GPA: 3.86 (Top 15% of cohort)  
+🏆 Scholarship: ¥3000 (乙等) + ¥1500 (丙等)
+</div>
 <div style="background: #fff3f3; padding: 20px; border-radius: 8px; margin: 16px 0">
 
 ### Freshman Year - Exploration & Lessons | 大一·探索与试错
