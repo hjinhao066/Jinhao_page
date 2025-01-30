@@ -4,91 +4,40 @@ title: My college life in Chengdu
 permalink: life
 ---
 
-This page mainly introduces my life and achievements in university.
-<div class="timeline-container">
+Welcome to my journey through university! This page highlights my experiences and achievements during my time in Chengdu.
 
-### <span class="year-tag freshman">Freshman Year</span> <span class="year-cn">· 探索与试错</span>
+🌀 Freshman Year: Confusion and Exploration
 
-<div class="year-card">
-🔥 **Metaverse Hype & Market Reality**  
-Initially caught in the gaming frenzy of *Naraka: Bladepoint* (2000+ hrs), I ventured into stock trading with ¥20k capital. While initial 10% gains in metaverse stocks were enticing, reality soon struck:  
-- 📉 Cumulative losses: ¥18,500  
-- ⚖️ Converted to convertible bonds: 23 failed trades  
-- 🎮 GPA 3.4 with 65% course attendance rate  
+As a freshman entering university, my main theme was confusion. To fit in, I followed others and played the game “League of Legends.” 🎮 At the same time, I engaged in stock trading, something I had always wanted to do. 📈
+	•	Investment Journey:
+	•	Asked my family for 20,000 yuan for investment. 💰
+	•	Invested 5,000 yuan during the initial metaverse boom, making a profit of 500 yuan. 💹
+	•	Increased my position but ultimately kept losing money. 📉
+	•	Spent a year trading stocks, participating in the 688 community, joining a private stock-sharing group costing 2,000 yuan/month, and purchasing stock trading software for 20,000 yuan/year. 💸
+	•	Eventually switched to trading convertible bonds, but continued to incur losses and was forced to quit. ❌
+	•	Academic Performance:
+	•	Neglected studies, resulting in an average GPA of 3.4 for the academic year. 📚
 
-<div class="key-lesson">
-💡 Learned: Markets reward patience, not impulse
-</div>
-</div>
+🌱 Sophomore Year: Realization and Transformation
 
----
+In my sophomore year, I realized that I couldn’t continue down this path of degradation. 🚀
+	•	Engagement and Leadership:
+	•	Joined the International Affairs Office as an assistant.
+	•	Organized multiple “Professors’ Speeches” events, facilitating valuable interactions between students and foreign faculty. 🎤
+	•	Academic Improvement:
+	•	Realized the importance of GPA and selected elective courses to boost my grades. 📈
+	•	Proud Achievement:
+	•	Accounting Course: Improved from 60 points on the first exam to 88 on the second, and finally 97.5 on the last exam, resulting in an overall score of 91. 🏅
+	•	Achieved a GPA of 3.86 for the academic year.
+	•	Received B and C-level academic scholarships. 🏆
 
-### <span class="year-tag sophomore">Sophomore Year</span> <span class="year-cn">· 觉醒时刻</span>
+🎓 Junior Year: Consistency and Preparation
 
-<div class="year-card">
-🌈 **Academic Transformation**  
-As International Affairs Assistant (360 hrs):  
-- 🎯 Organized 15+ "Teacher Talk" events (avg. 120 attendees)  
-- 🌍 Hosted 8 cross-cultural workshops  
-- 📚 Strategic course selection: 85% A-range grades  
-
-**Accounting Breakthrough**  
-<div class="progress-track">
-<mark>60</mark> → <mark class="improve">88</mark> → <mark class="excellent">97.5</mark>
-</div>
-Final GPA: 3.86 (Top 15% of cohort)  
-🏆 Scholarship: ¥3000 (乙等) + ¥1500 (丙等)
-</div>
-<div style="background: #fff3f3; padding: 20px; border-radius: 8px; margin: 16px 0">
-
-### Freshman Year - Exploration & Lessons | 大一·探索与试错
-🔥 **"Metaverse Hype & Market Reality"**  
-Initially caught in the gaming frenzy of *Naraka: Bladepoint* to fit in, I soon ventured into stock trading with ¥20,000 seed money. Early success (10% return in metaverse stocks) blinded me to risks. Later investments turned disastrous:  
-- 🎮 2000+ hours in gaming  
-- 💸 ¥20k evaporated through failed strategies  
-- 📉 Switched to convertible bonds - same outcome  
-- 📚 GPA 3.4: Bare-minimum academic effort  
-
-*"Learned the hard way: Markets reward patience, not impulse"*
-
----
-
-### Sophomore Year - Awakening | 大二·觉醒时刻
-🌈 **Academic Transformation**  
-As International Affairs Assistant:  
-- 🎯 Organized 15+ "Teacher Talk" events  
-- 🌍 Hosted 8 cross-cultural workshops  
-- 📈 Strategic course selection boosted GPA to 3.86  
-- 🏆 Won Academic Scholarship (2nd & 3rd Class)  
-
-**Accounting Breakthrough** 📊  
-`60 → 88 → 97.5` Final score: 91  
-*"Discovered: Consistent effort compounds like interest"*
-
----
-
-### Junior Year - Global Vision | 大三·全球征程
-🌐 **TOEFL/IELTS Odyssey**  
-- 📆 6 attempts over 9 months: 72 → 85 → 98  
-- ⚡ Pivoted to IELTS: 7.0 in 21 days  
-- ✈️ Applied to 20 US graduate programs  
-- 🤖 Leveraged AI for application optimization  
-
-**Current Focus**  
-- 🔍 Finalizing grad school decision  
-- 📘 GRE Quantitative: 168/170  
-- 💡 Developing AI-powered investment analysis tool
-
-</div>
-
-<style>
-mark { 
-  background-color: #e8f4ff;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-</style>
-
+In my junior year, I focused on maintaining my academic performance and preparing for future endeavors. 📖
+	•	Role and Responsibilities:
+	•	Worked as an assistant for the school’s counselor, managing lighter coursework to maintain a high GPA. 📝
+	•	Exam Preparation:
+	•	Prepared for language proficiency exams like TOEFL and GRE. ✈️
 As a freshman entering university, my main theme was confusion. In order to fit in, I followed others and played the game "League of Legends." At the same time, I also engaged in stock trading, which was something I had always wanted to do. I asked my family for 20,000 yuan for investment, but in reality, it was for stock trading. During the initial metaverse boom, I invested 5,000 yuan and made a profit of 500 yuan. As a result, I increased my position, but ultimately, I kept losing money. I spent a year trading stocks, participating in the 688 community, joining a private stock-sharing group that cost 2,000 yuan per month, and purchasing a stock trading software that cost 20,000 yuan per year. I eventually switched to trading convertible bonds, but it was just another way of losing money. In the end, I was forced to quit. I didn't pay much attention to studying, and my grades were just average, resulting in a GPA of only 3.4 for the entire academic year.
 
 In my sophomore year, I realized that I couldn't continue down this path of degradation. I joined the International Affairs Office of the School as an assistant and organized multiple "Professors' Speeches" events. The foreign teachers' sharing helped me gradually gain clarity about my future and become more informed about studying abroad. I gradually realized the importance of GPA and chose some elective courses that could boost my grades. The achievement I'm most proud of is my Accounting course, where I went from scoring 60 points on the first exam to 88 on the second, and finally 97.5 on the last exam, resulting in an overall score of 91 for the entire Accounting course. During this academic year, my GPA was 3.86, and I received the B and C-level academic scholarships.
