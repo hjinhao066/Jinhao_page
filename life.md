@@ -8,39 +8,62 @@ Welcome to my journey through university! This page highlights my experiences an
 🌀 Freshman Year: Confusion and Exploration
 
 As a freshman entering university, my main theme was confusion. To fit in, I followed others and played the game “League of Legends.” 🎮 At the same time, I engaged in stock trading, something I had always wanted to do. 📈
+
 	•	Investment Journey:
+
 	•	Asked my family for 20,000 yuan for investment. 💰
+
 	•	Invested 5,000 yuan during the initial metaverse boom, making a profit of 500 yuan. 💹
+
 	•	Increased my position but ultimately kept losing money. 📉
-	•	Spent a year trading stocks, participating in the 688 community, joining a private stock-sharing group costing 2,000 yuan/month, and purchasing stock trading software for 20,000 yuan/year. 💸
+
+	•	Spent a year trading stocks, participating in the 688¥ community, joining a private stock-sharing group costing 2,000 yuan/month, and purchasing stock trading software for 20,000 yuan/year. 💸
+
 	•	Eventually switched to trading convertible bonds, but continued to incur losses and was forced to quit. ❌
+
 	•	Academic Performance:
+
 	•	Neglected studies, resulting in an average GPA of 3.4 for the academic year. 📚
 
 🌱 Sophomore Year: Realization and Transformation
 
 In my sophomore year, I realized that I couldn’t continue down this path of degradation. 🚀
 	•	Engagement and Leadership:
+
 	•	Joined the International Affairs Office as an assistant.
+
 	•	Organized multiple “Professors’ Speeches” events, facilitating valuable interactions between students and foreign faculty. 🎤
+
 	•	Academic Improvement:
+
 	•	Realized the importance of GPA and selected elective courses to boost my grades. 📈
+
 	•	Proud Achievement:
-	•	Accounting Course: Improved from 60 points on the first exam to 88 on the second, and finally 97.5 on the last exam, resulting in an overall score of 91. 🏅
+
 	•	Achieved a GPA of 3.86 for the academic year.
-	•	Received B and C-level academic scholarships. 🏆
+
+	•	Received Second-Class academic scholarships. 🏆
 
 🎓 Junior Year: Consistency, Preparation, and New Adventures
 
 In my junior year, I focused on maintaining my academic performance and preparing for future endeavors. 📖
+
 	•	Role and Responsibilities:
+
 	•	Worked as an assistant for the school’s counselor, managing lighter coursework to maintain a high GPA. 📝
+
 	•	Exam Preparation:
+
 	•	Prepared for language proficiency exams like TOEFL and GRE. ✈️
+
 	•	Summer Experience:
+
 	•	Traveled abroad for the first time to attend a summer school at the University of British Columbia (UBC) in Canada. 🌏
+
 	•	After completing the summer program, flew to Toronto to visit the stunning Niagara Falls. 🌊
+
 	•	This experience was incredibly fun and broadened my global perspective. ✨
+    
 欢迎来到我大学生活的旅程！这个页面突出展示了我在大成都期间的经历和成就。
 
 🌀 大一：困惑与探索
